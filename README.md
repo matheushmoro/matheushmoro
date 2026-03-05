@@ -4,11 +4,10 @@
   
 <p> I'm a Junior Full Stack Developer skilled in:
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JAVASCRIPT</li>
-    <li>REACT</li>
+    <li><img src="./assets/html.png" alt="HTML" width="16" /> HTML</li>
+    <li><img src="./assets/css.png" alt="CSS" width="16" /> CSS</li>
+    <li><img src="./assets/js.png" alt="JavaScript" width="16" /> JavaScript</li>
+    <li><img src="./assets/React-icon.svg.png" alt="React" width="16" /> React</li>
   </ul>
-With 7 years of experience in manufacturing, I bring strong analytical thinking, quick learning ability, and effective communication to every project.
-Currently looking for freelance or full-time opportunities to grow and contribute.
-Passionate about building clean, user-friendly web experiences.</p>
+I'm a Full Stack Developer in training, focused on building practical projects and improving my skills in modern web technologies. I'm always learning, experimenting, and looking for opportunities to grow while creating clean, user-friendly digital experiences.</p>
+
