@@ -1,8 +1,8 @@
-<h1> Hey you!</h1>
+<h1> Hi, I'm Matheus Moro</h1>
 
-<h2>Nice to see you here!</p>
+<h2>Nice to see you here!</h2>
   
-<p> I'm Matheus Moro, a Junior Full Stack Developer skilled in:
+<p> I'm a Junior Full Stack Developer skilled in:
   <ul>
     <li>HTML</li>
     <li>CSS</li>
