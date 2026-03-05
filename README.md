@@ -9,5 +9,5 @@
     <li><img src="./assets/js.png" alt="JavaScript" width="16" /> JavaScript</li>
     <li><img src="./assets/React-icon.svg.png" alt="React" width="16" /> React</li>
   </ul>
-I'm a Full Stack Developer in training, focused on building practical projects and improving my skills in modern web technologies. I'm always learning, experimenting, and looking for opportunities to grow while creating clean, user-friendly digital experiences.</p>
+Focused on building practical projects and improving my skills in modern web technologies. I'm always learning, experimenting, and looking for opportunities to grow while creating clean, user-friendly digital experiences.</p>
 
